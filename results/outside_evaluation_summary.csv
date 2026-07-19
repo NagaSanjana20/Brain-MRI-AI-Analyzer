@@ -1,0 +1,5 @@
+Metric,Value
+Total Images,200.0
+Correct Predictions,184.0
+Incorrect Predictions,16.0
+Accuracy,0.92

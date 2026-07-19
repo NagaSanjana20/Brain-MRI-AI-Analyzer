@@ -1,0 +1,120 @@
+Image,Image_Path,Actual,Predicted,Confidence,Correct,Glioma_Probability,Meningioma_Probability,No_Tumor_Probability,Pituitary_Probability
+Te-gl_1.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_1.jpg,Glioma,Meningioma,0.6366964,False,0.0005863779,0.6366964,0.36236107,0.00035608892
+Te-gl_102.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_102.jpg,Glioma,No Tumor,0.9879395,False,0.0017826513,0.00015201971,0.9879395,0.010125881
+Te-gl_103.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_103.jpg,Glioma,No Tumor,0.9637609,False,0.028400047,0.0073186257,0.9637609,0.0005202803
+Te-gl_104.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_104.jpg,Glioma,Meningioma,0.7194622,False,0.27700707,0.7194622,0.0007686282,0.0027620587
+Te-gl_106.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_106.jpg,Glioma,Meningioma,0.96242976,False,3.7204943e-06,0.96242976,0.037552737,1.38573405e-05
+Te-gl_109.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_109.jpg,Glioma,Meningioma,0.9999865,False,9.348039e-11,0.9999865,4.5311138e-10,1.3422854e-05
+Te-gl_115.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_115.jpg,Glioma,Meningioma,0.7661084,False,0.00025958123,0.7661084,0.2336222,9.894554e-06
+Te-gl_126.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_126.jpg,Glioma,Meningioma,0.9552254,False,3.2313142e-07,0.9552254,0.0002559499,0.044518262
+Te-gl_129.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_129.jpg,Glioma,No Tumor,0.6878859,False,1.1009426e-05,0.3105887,0.6878859,0.0015144534
+Te-gl_133.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_133.jpg,Glioma,Meningioma,0.86830837,False,3.181642e-06,0.86830837,0.13155456,0.00013387813
+Te-gl_14.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_14.jpg,Glioma,Meningioma,0.97597426,False,0.023918344,0.97597426,0.000100167366,7.1606833e-06
+Te-gl_140.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_140.jpg,Glioma,Meningioma,0.99596775,False,7.3998143e-07,0.99596775,0.000117699325,0.0039138524
+Te-gl_143.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_143.jpg,Glioma,No Tumor,0.9996062,False,0.00038736468,5.9415345e-07,0.9996062,5.819143e-06
+Te-gl_144.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_144.jpg,Glioma,No Tumor,0.9771791,False,0.018454641,1.0361155e-06,0.9771791,0.0043651354
+Te-gl_15.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_15.jpg,Glioma,Meningioma,0.986271,False,5.9949107e-06,0.986271,3.209801e-05,0.013690842
+Te-gl_151.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_151.jpg,Glioma,No Tumor,0.9558997,False,0.0012080863,0.038425334,0.9558997,0.0044667753
+Te-gl_158.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_158.jpg,Glioma,Meningioma,0.9783976,False,0.019695431,0.9783976,0.00012824123,0.0017786967
+Te-gl_159.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_159.jpg,Glioma,No Tumor,0.9923757,False,7.305896e-09,0.0012395696,0.9923757,0.0063847476
+Te-gl_160.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_160.jpg,Glioma,Meningioma,0.9999783,False,9.74987e-10,0.9999783,3.2727196e-06,1.8463597e-05
+Te-gl_166.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_166.jpg,Glioma,No Tumor,0.98076665,False,0.015797831,0.0031033875,0.98076665,0.0003321387
+Te-gl_167.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_167.jpg,Glioma,No Tumor,0.87817496,False,0.10845456,0.00604705,0.87817496,0.0073234723
+Te-gl_170.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_170.jpg,Glioma,Meningioma,0.7279076,False,0.00013468757,0.7279076,0.27194354,1.4268212e-05
+Te-gl_171.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_171.jpg,Glioma,Meningioma,0.8930037,False,1.2047067e-05,0.8930037,0.10570099,0.0012833542
+Te-gl_178.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_178.jpg,Glioma,Meningioma,0.7279076,False,0.00013468757,0.7279076,0.27194354,1.4268212e-05
+Te-gl_187.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_187.jpg,Glioma,No Tumor,0.999017,False,2.995399e-07,0.00026044578,0.999017,0.0007223096
+Te-gl_189.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_189.jpg,Glioma,Meningioma,0.99920076,False,4.256832e-09,0.99920076,1.0457536e-05,0.0007888224
+Te-gl_190.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_190.jpg,Glioma,Meningioma,0.59657776,False,0.37943807,0.59657776,0.023792006,0.00019213352
+Te-gl_196.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_196.jpg,Glioma,Meningioma,0.92499655,False,8.597782e-07,0.92499655,0.07333186,0.0016706695
+Te-gl_204.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_204.jpg,Glioma,No Tumor,0.9999958,False,3.3416484e-06,3.0191595e-07,0.9999958,4.4599864e-07
+Te-gl_208.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_208.jpg,Glioma,Meningioma,0.97354716,False,0.026349302,0.97354716,6.295957e-05,4.0660223e-05
+Te-gl_211.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_211.jpg,Glioma,Meningioma,0.6694829,False,0.09067044,0.6694829,0.2398285,1.8088374e-05
+Te-gl_212.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_212.jpg,Glioma,Pituitary Tumor,0.5288333,False,0.004883987,0.46627915,3.5446585e-06,0.5288333
+Te-gl_213.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_213.jpg,Glioma,Meningioma,0.9751966,False,2.651439e-05,0.9751966,2.1445527e-05,0.024755508
+Te-gl_215.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_215.jpg,Glioma,Meningioma,0.73271346,False,5.5338653e-05,0.73271346,0.2669289,0.00030220984
+Te-gl_218.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_218.jpg,Glioma,Meningioma,0.65462834,False,4.5243734e-05,0.65462834,0.34532318,3.1881418e-06
+Te-gl_22.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_22.jpg,Glioma,Meningioma,0.5381573,False,0.31831303,0.5381573,0.06928622,0.07424353
+Te-gl_228.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_228.jpg,Glioma,Meningioma,0.8930037,False,1.2047067e-05,0.8930037,0.10570099,0.0012833542
+Te-gl_229.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_229.jpg,Glioma,Meningioma,0.7377547,False,0.2401293,0.7377547,0.01458397,0.0075320974
+Te-gl_238.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_238.jpg,Glioma,Meningioma,0.99596775,False,7.3998143e-07,0.99596775,0.000117699325,0.0039138524
+Te-gl_247.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_247.jpg,Glioma,Meningioma,0.9836857,False,0.016302804,0.9836857,2.2254223e-06,9.314586e-06
+Te-gl_259.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_259.jpg,Glioma,No Tumor,0.9999958,False,3.3416484e-06,3.0191595e-07,0.9999958,4.4599864e-07
+Te-gl_264.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_264.jpg,Glioma,No Tumor,0.9985851,False,3.0209295e-09,0.00046455924,0.9985851,0.0009502552
+Te-gl_27.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_27.jpg,Glioma,Meningioma,0.99554044,False,1.5835886e-07,0.99554044,0.0041768905,0.00028260812
+Te-gl_272.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_272.jpg,Glioma,Pituitary Tumor,0.5288333,False,0.004883987,0.46627915,3.5446585e-06,0.5288333
+Te-gl_275.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_275.jpg,Glioma,Meningioma,0.9999913,False,7.815621e-06,0.9999913,4.5326093e-08,7.77424e-07
+Te-gl_277.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_277.jpg,Glioma,No Tumor,0.9988463,False,4.859311e-10,0.00074362464,0.9988463,0.0004100576
+Te-gl_278.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_278.jpg,Glioma,No Tumor,0.98076665,False,0.015797831,0.0031033875,0.98076665,0.0003321387
+Te-gl_287.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_287.jpg,Glioma,Meningioma,0.83037287,False,0.16952829,0.83037287,1.2652927e-05,8.616816e-05
+Te-gl_293.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_293.jpg,Glioma,Meningioma,0.90461546,False,0.09264337,0.90461546,0.0010937254,0.0016475024
+Te-gl_295.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_295.jpg,Glioma,No Tumor,0.7331123,False,0.17709205,0.023058487,0.7331123,0.0667372
+Te-gl_298.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_298.jpg,Glioma,Meningioma,0.9690081,False,0.015728755,0.9690081,0.0009082293,0.014355058
+Te-gl_303.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_303.jpg,Glioma,No Tumor,0.6878859,False,1.1009426e-05,0.3105887,0.6878859,0.0015144534
+Te-gl_304.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_304.jpg,Glioma,Meningioma,0.9653896,False,0.03426916,0.9653896,0.00029928726,4.1935065e-05
+Te-gl_306.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_306.jpg,Glioma,Meningioma,0.8242414,False,0.17572077,0.8242414,1.167104e-06,3.667622e-05
+Te-gl_310.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_310.jpg,Glioma,Meningioma,0.9955448,False,0.00012674657,0.9955448,0.003069797,0.0012586262
+Te-gl_313.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_313.jpg,Glioma,No Tumor,0.952598,False,2.3201148e-05,0.047371835,0.952598,6.9881994e-06
+Te-gl_314.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_314.jpg,Glioma,No Tumor,0.9672444,False,0.00038619895,0.032262385,0.9672444,0.00010697355
+Te-gl_318.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_318.jpg,Glioma,No Tumor,0.6066609,False,5.994866e-07,0.39332572,0.6066609,1.2815573e-05
+Te-gl_32.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_32.jpg,Glioma,Meningioma,0.9877172,False,1.206495e-05,0.9877172,0.0022802602,0.009990503
+Te-gl_323.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_323.jpg,Glioma,No Tumor,0.75385296,False,0.12500846,0.0022370468,0.75385296,0.118901566
+Te-gl_330.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_330.jpg,Glioma,No Tumor,0.7761407,False,0.0069281864,0.0027212924,0.7761407,0.21420972
+Te-gl_335.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_335.jpg,Glioma,No Tumor,0.8321115,False,7.636381e-08,0.1661918,0.8321115,0.0016966203
+Te-gl_338.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_338.jpg,Glioma,Pituitary Tumor,0.5288333,False,0.004883987,0.46627915,3.5446585e-06,0.5288333
+Te-gl_341.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_341.jpg,Glioma,No Tumor,0.99965835,False,3.6778172e-07,0.00034128223,0.99965835,1.556093e-08
+Te-gl_350.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_350.jpg,Glioma,No Tumor,0.72596616,False,0.00072768197,0.26957253,0.72596616,0.0037335975
+Te-gl_351.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_351.jpg,Glioma,No Tumor,0.59138477,False,0.0001632059,0.4014718,0.59138477,0.00698023
+Te-gl_358.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_358.jpg,Glioma,No Tumor,0.9709438,False,1.1680983e-08,0.029043524,0.9709438,1.2558997e-05
+Te-gl_371.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_371.jpg,Glioma,Meningioma,0.84373045,False,0.14004764,0.84373045,0.015797392,0.00042457826
+Te-gl_372.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_372.jpg,Glioma,No Tumor,0.99996436,False,2.2943848e-06,1.4886796e-06,0.99996436,3.1880867e-05
+Te-gl_389.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_389.jpg,Glioma,Meningioma,0.9877172,False,1.206495e-05,0.9877172,0.0022802602,0.009990503
+Te-gl_39.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_39.jpg,Glioma,No Tumor,0.9956085,False,3.1095567e-08,0.0043622507,0.9956085,2.9167757e-05
+Te-gl_391.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_391.jpg,Glioma,No Tumor,0.9838283,False,3.381969e-08,0.015600025,0.9838283,0.0005715802
+Te-gl_43.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_43.jpg,Glioma,No Tumor,0.99765563,False,0.0004983661,0.001559091,0.99765563,0.00028691362
+Te-gl_47.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_47.jpg,Glioma,Meningioma,0.9996101,False,9.0026944e-08,0.9996101,8.010768e-06,0.00038177095
+Te-gl_53.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_53.jpg,Glioma,No Tumor,0.88315916,False,1.7372926e-09,0.012989797,0.88315916,0.10385108
+Te-gl_58.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_58.jpg,Glioma,Meningioma,0.9950244,False,3.868003e-05,0.9950244,0.004878024,5.8982252e-05
+Te-gl_59.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_59.jpg,Glioma,No Tumor,0.9771791,False,0.018454641,1.0361155e-06,0.9771791,0.0043651354
+Te-gl_62.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_62.jpg,Glioma,Meningioma,0.86911714,False,2.2533516e-07,0.86911714,0.13085915,2.3562667e-05
+Te-gl_66.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_66.jpg,Glioma,Meningioma,0.9820619,False,2.4447152e-05,0.9820619,0.017783146,0.0001304268
+Te-gl_67.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_67.jpg,Glioma,Meningioma,0.56418663,False,0.4129066,0.56418663,0.004017215,0.018889613
+Te-gl_68.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_68.jpg,Glioma,Meningioma,1.0,False,2.3940683e-10,1.0,5.989684e-12,2.9783482e-09
+Te-gl_71.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_71.jpg,Glioma,Meningioma,0.5543928,False,0.44535765,0.5543928,0.00023960789,9.887479e-06
+Te-gl_72.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_72.jpg,Glioma,No Tumor,0.9996062,False,0.00038736468,5.9415345e-07,0.9996062,5.819143e-06
+Te-gl_74.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_74.jpg,Glioma,No Tumor,0.99987984,False,1.0757369e-07,8.993842e-05,0.99987984,3.0149684e-05
+Te-gl_76.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_76.jpg,Glioma,Meningioma,0.9955888,False,8.2896514e-07,0.9955888,0.000104168175,0.004306145
+Te-gl_77.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_77.jpg,Glioma,Meningioma,0.64337915,False,0.084447324,0.64337915,0.011935185,0.26023847
+Te-gl_78.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_78.jpg,Glioma,No Tumor,0.9593645,False,1.9835115e-07,0.04045832,0.9593645,0.00017699259
+Te-gl_84.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_84.jpg,Glioma,No Tumor,0.9789216,False,0.020331368,0.0006811593,0.9789216,6.591331e-05
+Te-gl_86.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_86.jpg,Glioma,Meningioma,0.7179171,False,0.08591326,0.7179171,0.1957058,0.00046383427
+Te-gl_87.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_87.jpg,Glioma,Meningioma,0.9999733,False,1.6057886e-05,0.9999733,3.55995e-08,1.05969475e-05
+Te-gl_97.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\glioma\Te-gl_97.jpg,Glioma,No Tumor,0.9982919,False,4.6634078e-08,0.0017076862,0.9982919,3.096846e-07
+Te-aug-me_14.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_14.jpg,Meningioma,Pituitary Tumor,0.81645095,False,1.6739402e-06,0.02683001,0.15671737,0.81645095
+Te-aug-me_24.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_24.jpg,Meningioma,Pituitary Tumor,0.7512905,False,0.00808351,0.0061941785,0.23443174,0.7512905
+Te-aug-me_38.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_38.jpg,Meningioma,Glioma,0.6065346,False,0.6065346,0.35953087,0.011953863,0.021980576
+Te-aug-me_50.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_50.jpg,Meningioma,Pituitary Tumor,0.9759183,False,2.3411718e-05,0.023432868,0.00062548683,0.9759183
+Te-aug-me_54.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_54.jpg,Meningioma,No Tumor,0.55994886,False,0.14275445,0.08436774,0.55994886,0.21292897
+Te-aug-me_56.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_56.jpg,Meningioma,Glioma,0.9896773,False,0.9896773,0.0031169893,0.0054776934,0.0017279505
+Te-aug-me_65.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_65.jpg,Meningioma,Pituitary Tumor,0.68345916,False,0.0028760969,0.10894243,0.20472237,0.68345916
+Te-aug-me_67.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_67.jpg,Meningioma,No Tumor,0.71249264,False,0.00013066345,0.22798453,0.71249264,0.059392054
+Te-aug-me_72.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_72.jpg,Meningioma,Pituitary Tumor,0.96365654,False,7.8477143e-07,0.025931725,0.01041093,0.96365654
+Te-aug-me_92.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-aug-me_92.jpg,Meningioma,Glioma,0.805182,False,0.805182,0.19348626,0.0010375122,0.0002942518
+Te-me_100.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_100.jpg,Meningioma,Pituitary Tumor,0.99944395,False,4.325933e-06,0.0005517264,2.0479906e-14,0.99944395
+Te-me_119.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_119.jpg,Meningioma,Glioma,0.9626322,False,0.9626322,0.030372037,0.0005170928,0.006478672
+Te-me_13.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_13.jpg,Meningioma,Glioma,0.59120333,False,0.59120333,0.4016103,2.4954437e-07,0.0071860803
+Te-me_151.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_151.jpg,Meningioma,Glioma,0.5890165,False,0.5890165,0.3633802,0.04684292,0.000760341
+Te-me_169.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_169.jpg,Meningioma,Pituitary Tumor,0.9585932,False,2.712462e-05,0.041316804,6.286091e-05,0.9585932
+Te-me_182.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_182.jpg,Meningioma,Pituitary Tumor,0.9738892,False,4.770912e-07,0.02268404,0.003426318,0.9738892
+Te-me_186.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_186.jpg,Meningioma,Pituitary Tumor,0.7924999,False,6.2638166e-05,0.121909,0.085528485,0.7924999
+Te-me_200.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_200.jpg,Meningioma,Pituitary Tumor,0.9606488,False,4.545718e-05,0.03260508,0.0067006615,0.9606488
+Te-me_225.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_225.jpg,Meningioma,Glioma,0.8852896,False,0.8852896,0.09143238,0.004270096,0.019007895
+Te-me_289.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_289.jpg,Meningioma,Glioma,0.76335835,False,0.76335835,0.2365869,5.0700624e-08,5.4645723e-05
+Te-me_3.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_3.jpg,Meningioma,No Tumor,0.572865,False,0.0035792284,0.4197946,0.572865,0.0037611525
+Te-me_45.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_45.jpg,Meningioma,Pituitary Tumor,0.9738892,False,4.770912e-07,0.02268404,0.003426318,0.9738892
+Te-me_92.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\meningioma\Te-me_92.jpg,Meningioma,Pituitary Tumor,0.9859825,False,0.00040056114,0.013616942,1.160575e-08,0.9859825
+Te-no_132.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\notumor\Te-no_132.jpg,No Tumor,Meningioma,0.6540141,False,4.652884e-09,0.6540141,0.3458634,0.00012247547
+Te-pi_209.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\pituitary\Te-pi_209.jpg,Pituitary Tumor,Glioma,0.85946316,False,0.85946316,0.040681507,3.0022204e-05,0.09982537
+Te-pi_241.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\pituitary\Te-pi_241.jpg,Pituitary Tumor,Glioma,0.8679989,False,0.8679989,0.0033400315,3.826707e-05,0.1286228
+Te-pi_257.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\pituitary\Te-pi_257.jpg,Pituitary Tumor,Glioma,0.8418413,False,0.8418413,0.051658012,6.279997e-05,0.10643799
+Te-pi_323.jpg,c:\Users\nagas\OneDrive\Desktop\NeuroVision-AI\data\Testing\pituitary\Te-pi_323.jpg,Pituitary Tumor,Meningioma,0.56344503,False,0.0014649739,0.56344503,0.19023712,0.24485286

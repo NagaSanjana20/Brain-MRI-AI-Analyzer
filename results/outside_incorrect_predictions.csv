@@ -1,0 +1,17 @@
+Image,Actual,Predicted,Confidence,Correct
+image 25.jpg,Glioma,Meningioma,0.6341521,False
+image 26.jpg,Glioma,No Tumor,0.9996062,False
+image 27.jpg,Glioma,No Tumor,0.99996436,False
+image 28.jpg,Glioma,Meningioma,0.9955888,False
+image 29.jpg,Glioma,No Tumor,0.99765563,False
+image 30.jpg,Glioma,Meningioma,0.9999865,False
+image 31.jpg,Glioma,No Tumor,0.9996062,False
+image 32.jpg,Glioma,No Tumor,0.6066609,False
+image 33.jpg,Glioma,Meningioma,0.9999913,False
+image 34.jpg,Glioma,Meningioma,0.9955448,False
+image 37.jpg,Glioma,Meningioma,0.5543928,False
+image 38.jpg,Glioma,Meningioma,0.97597426,False
+image 50.jpg,Glioma,Meningioma,0.84373045,False
+image 6.jpg,Glioma,Meningioma,0.8747073,False
+image 7.jpg,Glioma,Meningioma,0.9478215,False
+image 7.jpg,Meningioma,Pituitary Tumor,0.9738892,False

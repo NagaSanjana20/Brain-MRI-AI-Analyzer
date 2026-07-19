@@ -1,0 +1,201 @@
+Image,Actual,Predicted,Confidence,Correct
+image 1.jpg,Glioma,Glioma,0.9999299,True
+image 10.jpg,Glioma,Glioma,0.9978397,True
+image 11.jpg,Glioma,Glioma,0.9954965,True
+image 12.jpg,Glioma,Glioma,0.99567944,True
+image 13.jpg,Glioma,Glioma,0.9999522,True
+image 14.jpg,Glioma,Glioma,0.9997751,True
+image 15.jpg,Glioma,Glioma,0.96929806,True
+image 16.jpg,Glioma,Glioma,0.9957502,True
+image 17.jpg,Glioma,Glioma,0.98542273,True
+image 18.jpg,Glioma,Glioma,0.99968386,True
+image 19.jpg,Glioma,Glioma,0.9999225,True
+image 2.jpg,Glioma,Glioma,0.9999807,True
+image 20.jpg,Glioma,Glioma,0.9982406,True
+image 21.jpg,Glioma,Glioma,0.9992343,True
+image 22.jpg,Glioma,Glioma,0.99988735,True
+image 23.jpg,Glioma,Glioma,0.9963786,True
+image 24.jpg,Glioma,Glioma,0.99441683,True
+image 25.jpg,Glioma,Meningioma,0.6341521,False
+image 26.jpg,Glioma,No Tumor,0.9996062,False
+image 27.jpg,Glioma,No Tumor,0.99996436,False
+image 28.jpg,Glioma,Meningioma,0.9955888,False
+image 29.jpg,Glioma,No Tumor,0.99765563,False
+image 3.jpg,Glioma,Glioma,0.99087733,True
+image 30.jpg,Glioma,Meningioma,0.9999865,False
+image 31.jpg,Glioma,No Tumor,0.9996062,False
+image 32.jpg,Glioma,No Tumor,0.6066609,False
+image 33.jpg,Glioma,Meningioma,0.9999913,False
+image 34.jpg,Glioma,Meningioma,0.9955448,False
+image 35.jpg,Glioma,Glioma,0.99999106,True
+image 36.jpg,Glioma,Glioma,0.9640865,True
+image 37.jpg,Glioma,Meningioma,0.5543928,False
+image 38.jpg,Glioma,Meningioma,0.97597426,False
+image 39.jpg,Glioma,Glioma,0.9493766,True
+image 4.jpg,Glioma,Glioma,0.85074526,True
+image 40.jpg,Glioma,Glioma,0.97448504,True
+image 41.jpg,Glioma,Glioma,0.97448504,True
+image 42.jpg,Glioma,Glioma,0.99999845,True
+image 43.jpg,Glioma,Glioma,0.9999299,True
+image 44.jpg,Glioma,Glioma,0.9998584,True
+image 45.jpg,Glioma,Glioma,0.9999671,True
+image 46.jpg,Glioma,Glioma,0.9999895,True
+image 47.jpg,Glioma,Glioma,0.9999895,True
+image 48.jpg,Glioma,Glioma,0.9999982,True
+image 49.jpg,Glioma,Glioma,0.9999913,True
+image 5.jpg,Glioma,Glioma,0.78829056,True
+image 50.jpg,Glioma,Meningioma,0.84373045,False
+image 6.jpg,Glioma,Meningioma,0.8747073,False
+image 7.jpg,Glioma,Meningioma,0.9478215,False
+image 8.jpg,Glioma,Glioma,0.9999238,True
+image 9.jpg,Glioma,Glioma,0.99954695,True
+image 1.jpg,Meningioma,Meningioma,1.0,True
+image 10.jpg,Meningioma,Meningioma,0.99999845,True
+image 11.jpg,Meningioma,Meningioma,0.9961732,True
+image 12.jpg,Meningioma,Meningioma,0.9990132,True
+image 13.jpg,Meningioma,Meningioma,0.99609345,True
+image 14.jpg,Meningioma,Meningioma,0.9999428,True
+image 15.jpg,Meningioma,Meningioma,0.99999905,True
+image 16.jpg,Meningioma,Meningioma,0.99999964,True
+image 17.jpg,Meningioma,Meningioma,0.9998253,True
+image 18.jpg,Meningioma,Meningioma,0.99999726,True
+image 19.jpg,Meningioma,Meningioma,0.99988616,True
+image 2.jpg,Meningioma,Meningioma,0.99994504,True
+image 20.jpg,Meningioma,Meningioma,0.9999987,True
+image 21.jpg,Meningioma,Meningioma,0.9953269,True
+image 22.jpg,Meningioma,Meningioma,0.9999925,True
+image 23.jpg,Meningioma,Meningioma,0.9997441,True
+image 24.jpg,Meningioma,Meningioma,0.99631715,True
+image 25.jpg,Meningioma,Meningioma,0.99609727,True
+image 26.jpg,Meningioma,Meningioma,0.99993885,True
+image 27.jpg,Meningioma,Meningioma,0.99224174,True
+image 28.jpg,Meningioma,Meningioma,0.9999738,True
+image 29.jpg,Meningioma,Meningioma,0.9999058,True
+image 3.jpg,Meningioma,Meningioma,0.9859659,True
+image 30.jpg,Meningioma,Meningioma,0.99922454,True
+image 31.jpg,Meningioma,Meningioma,0.9968675,True
+image 32.jpg,Meningioma,Meningioma,0.99987364,True
+image 33.jpg,Meningioma,Meningioma,0.9999503,True
+image 34.jpg,Meningioma,Meningioma,0.99987614,True
+image 35.jpg,Meningioma,Meningioma,0.9493008,True
+image 36.jpg,Meningioma,Meningioma,0.8577485,True
+image 37.jpg,Meningioma,Meningioma,0.9739372,True
+image 38.jpg,Meningioma,Meningioma,0.99999976,True
+image 39.jpg,Meningioma,Meningioma,1.0,True
+image 4.jpg,Meningioma,Meningioma,0.99732494,True
+image 40.jpg,Meningioma,Meningioma,1.0,True
+image 41.jpg,Meningioma,Meningioma,1.0,True
+image 42.jpg,Meningioma,Meningioma,1.0,True
+image 43.jpg,Meningioma,Meningioma,1.0,True
+image 44.jpg,Meningioma,Meningioma,0.9993387,True
+image 45.jpg,Meningioma,Meningioma,0.99999833,True
+image 46.jpg,Meningioma,Meningioma,0.9999007,True
+image 47.jpg,Meningioma,Meningioma,0.99997675,True
+image 48.jpg,Meningioma,Meningioma,0.99999726,True
+image 49.jpg,Meningioma,Meningioma,0.9999732,True
+image 5.jpg,Meningioma,Meningioma,0.9998054,True
+image 50.jpg,Meningioma,Meningioma,0.9999777,True
+image 6.jpg,Meningioma,Meningioma,1.0,True
+image 7.jpg,Meningioma,Pituitary Tumor,0.9738892,False
+image 8.jpg,Meningioma,Meningioma,0.9997249,True
+image 9.jpg,Meningioma,Meningioma,0.8314525,True
+image 1.jpg,No Tumor,No Tumor,0.99721634,True
+image 10.jpg,No Tumor,No Tumor,0.9997688,True
+image 11.jpg,No Tumor,No Tumor,0.83796847,True
+image 12.jpg,No Tumor,No Tumor,0.9999933,True
+image 13.jpg,No Tumor,No Tumor,0.9988589,True
+image 14.jpg,No Tumor,No Tumor,0.999458,True
+image 15.jpg,No Tumor,No Tumor,0.99929166,True
+image 16.jpg,No Tumor,No Tumor,0.9999496,True
+image 17.jpg,No Tumor,No Tumor,0.9999876,True
+image 18.jpg,No Tumor,No Tumor,0.9988625,True
+image 19.jpg,No Tumor,No Tumor,0.99948126,True
+image 2.jpg,No Tumor,No Tumor,0.99994695,True
+image 20.jpg,No Tumor,No Tumor,0.9999304,True
+image 21.jpg,No Tumor,No Tumor,0.99950266,True
+image 22.jpg,No Tumor,No Tumor,0.9979024,True
+image 23.jpg,No Tumor,No Tumor,0.99946064,True
+image 24.jpg,No Tumor,No Tumor,0.9759829,True
+image 25.jpg,No Tumor,No Tumor,0.999853,True
+image 26.jpg,No Tumor,No Tumor,0.9996917,True
+image 27.jpg,No Tumor,No Tumor,0.9998148,True
+image 28.jpg,No Tumor,No Tumor,0.9717135,True
+image 29.jpg,No Tumor,No Tumor,0.9999833,True
+image 3.jpg,No Tumor,No Tumor,0.9881054,True
+image 30.jpg,No Tumor,No Tumor,0.99753463,True
+image 31.jpg,No Tumor,No Tumor,0.9999465,True
+image 32.jpg,No Tumor,No Tumor,0.999961,True
+image 33.jpg,No Tumor,No Tumor,0.99999154,True
+image 34.jpg,No Tumor,No Tumor,0.99999154,True
+image 35.jpg,No Tumor,No Tumor,0.99888796,True
+image 36.jpg,No Tumor,No Tumor,0.99888796,True
+image 37.jpg,No Tumor,No Tumor,0.9999933,True
+image 38.jpg,No Tumor,No Tumor,0.9999993,True
+image 39.jpg,No Tumor,No Tumor,0.99999225,True
+image 4.jpg,No Tumor,No Tumor,0.98862517,True
+image 40.jpg,No Tumor,No Tumor,0.9999994,True
+image 41.jpg,No Tumor,No Tumor,0.99757844,True
+image 42.jpg,No Tumor,No Tumor,0.9986999,True
+image 43.jpg,No Tumor,No Tumor,0.99698216,True
+image 44.jpg,No Tumor,No Tumor,0.9822035,True
+image 45.jpg,No Tumor,No Tumor,0.99720544,True
+image 46.jpg,No Tumor,No Tumor,0.99999154,True
+image 47.jpg,No Tumor,No Tumor,0.9999988,True
+image 48.jpg,No Tumor,No Tumor,0.9999982,True
+image 49.jpg,No Tumor,No Tumor,0.9999988,True
+image 5.jpg,No Tumor,No Tumor,0.9995968,True
+image 50.jpg,No Tumor,No Tumor,0.999998,True
+image 6.jpg,No Tumor,No Tumor,0.99903655,True
+image 7.jpg,No Tumor,No Tumor,0.96738183,True
+image 8.jpg,No Tumor,No Tumor,0.9891951,True
+image 9.jpg,No Tumor,No Tumor,0.99961495,True
+iamge 23.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 1.jpg,Pituitary Tumor,Pituitary Tumor,0.9999994,True
+image 10.jpg,Pituitary Tumor,Pituitary Tumor,0.99991524,True
+image 11.jpg,Pituitary Tumor,Pituitary Tumor,0.81374466,True
+image 12.jpg,Pituitary Tumor,Pituitary Tumor,0.98542875,True
+image 13.jpg,Pituitary Tumor,Pituitary Tumor,0.98542875,True
+image 14.jpg,Pituitary Tumor,Pituitary Tumor,0.99728227,True
+image 15.jpg,Pituitary Tumor,Pituitary Tumor,0.99728227,True
+image 16.jpg,Pituitary Tumor,Pituitary Tumor,0.9999603,True
+image 17.jpg,Pituitary Tumor,Pituitary Tumor,0.9999603,True
+image 18.jpg,Pituitary Tumor,Pituitary Tumor,0.99691963,True
+image 19.jpg,Pituitary Tumor,Pituitary Tumor,0.99691963,True
+image 2.jpg,Pituitary Tumor,Pituitary Tumor,0.9999994,True
+image 20.jpg,Pituitary Tumor,Pituitary Tumor,0.99691963,True
+image 21.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 22.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 24.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 25.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 26.jpg,Pituitary Tumor,Pituitary Tumor,0.99999964,True
+image 27.jpg,Pituitary Tumor,Pituitary Tumor,0.9999993,True
+image 28.jpg,Pituitary Tumor,Pituitary Tumor,0.999997,True
+image 29.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 3.jpg,Pituitary Tumor,Pituitary Tumor,0.9990351,True
+image 30.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 31.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 32.jpg,Pituitary Tumor,Pituitary Tumor,0.99999714,True
+image 33.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 34.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 35.jpg,Pituitary Tumor,Pituitary Tumor,0.9997389,True
+image 36.jpg,Pituitary Tumor,Pituitary Tumor,0.99999964,True
+image 37.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 38.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 39.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 4.jpg,Pituitary Tumor,Pituitary Tumor,0.9990351,True
+image 40.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 41.jpg,Pituitary Tumor,Pituitary Tumor,0.999998,True
+image 42.jpg,Pituitary Tumor,Pituitary Tumor,0.999977,True
+image 43.jpg,Pituitary Tumor,Pituitary Tumor,0.9999857,True
+image 44.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 45.jpg,Pituitary Tumor,Pituitary Tumor,1.0,True
+image 46.jpg,Pituitary Tumor,Pituitary Tumor,0.9999999,True
+image 47.jpg,Pituitary Tumor,Pituitary Tumor,0.99999917,True
+image 48.jpg,Pituitary Tumor,Pituitary Tumor,0.99999344,True
+image 49.jpg,Pituitary Tumor,Pituitary Tumor,0.99998844,True
+image 5.jpg,Pituitary Tumor,Pituitary Tumor,0.99996567,True
+image 50.jpg,Pituitary Tumor,Pituitary Tumor,0.99997616,True
+image 6.jpg,Pituitary Tumor,Pituitary Tumor,0.99996567,True
+image 7.jpg,Pituitary Tumor,Pituitary Tumor,0.9440184,True
+image 8.jpg,Pituitary Tumor,Pituitary Tumor,0.99991524,True
+image 9.jpg,Pituitary Tumor,Pituitary Tumor,0.99991524,True
